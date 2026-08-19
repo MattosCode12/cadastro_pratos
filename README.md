@@ -1,4 +1,4 @@
-#Sistema de Gerenciamento de Pratos#
+**Sistema de Gerenciamento de Pratos**
 Sobre o projeto
 
 Sistema desenvolvido em PHP e MySQL para realizar o cadastro de usuários e o gerenciamento de pratos de um restaurante.
